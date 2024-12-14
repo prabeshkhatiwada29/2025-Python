@@ -1,0 +1,5 @@
+print(100)
+print("prabesh")
+print(10*2)
+print(10/2)
+print(f'Sum of two numbers are {10+20}')
