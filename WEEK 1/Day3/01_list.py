@@ -14,3 +14,6 @@ print(use_list)
 
 use_list[2]='shyam'
 print(use_list)
+
+
+# list slicing
