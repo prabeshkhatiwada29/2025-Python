@@ -8,3 +8,4 @@ elif score >=70:
     print("Grade C")
 else:
     print("You are fail")
+# conditional statement
