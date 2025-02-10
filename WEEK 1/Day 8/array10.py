@@ -5,3 +5,5 @@ print("popping last element",a.pop())
 print("popping first element",a.pop())
 a.remove(1.1)
 print(a)  # prints array('d', [2.1, 3.6])
+
+# import array as arr
