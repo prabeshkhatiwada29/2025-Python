@@ -1,0 +1,5 @@
+name=("prabesh","sadish","prausn")
+y=list(name)
+y.append("hari")
+name=tuple(y)
+print(name)
