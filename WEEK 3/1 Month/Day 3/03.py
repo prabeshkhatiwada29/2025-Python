@@ -3,3 +3,6 @@ for x in fruits:
     print(x)
     if x=="Cherry":
         break
+# Output: 
+# Apple
+# Banana
