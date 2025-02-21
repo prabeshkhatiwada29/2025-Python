@@ -1,4 +1,5 @@
 # abstraction
+#   - abstract class
 
 class Student:
     def __init__(self,name,grade,percentage):
