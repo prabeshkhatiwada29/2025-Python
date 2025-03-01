@@ -3,6 +3,11 @@
 # 
 a=input("Enter a number:")
 print(f"Multiply the table of{a}is")
+try:
 
-for i in range(1,11):
-   print(f"{int(a)} x {i}={int(a)*i}")
+   for i in range(1,11):
+      print(f"{int(a)} x {i}={int(a)*i}")
+except Exception as e:
+      print(f"Error:{e}")
+
+print("End of the program")
