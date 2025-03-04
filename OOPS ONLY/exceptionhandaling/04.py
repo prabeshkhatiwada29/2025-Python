@@ -3,3 +3,5 @@ try:
     print(result)
 except:
     print("An exception occured")
+    # raise
+    
