@@ -2,6 +2,8 @@ arr=[1,2,3,4,5,6,7]
 
 # print(min(arr))
 # print(arr.sort())
+# print(arr)
+# print(arr.index(3))
 
 arr.sort()
 print(arr)
