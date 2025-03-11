@@ -6,3 +6,4 @@ def say_hello(name):
 
 
 person={'name':'prabesh','age':23,'country':'nepal'}
+# print(person['name'])

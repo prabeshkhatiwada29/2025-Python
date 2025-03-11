@@ -12,3 +12,6 @@ from mymodule import person
 print(person['age'])
 print(person['name'])
 print(person['country'])
+# import mymodule as mm 
+
+
