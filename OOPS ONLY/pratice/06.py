@@ -1,4 +1,5 @@
 # in capsulation we can restrict the access of the data members of the class
+# we can restrict the access of the data members of the class
 
 
 class Student:

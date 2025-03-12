@@ -1,6 +1,7 @@
 # Blue print or template
 
 
+
 class Prabesh:
     name="Prabesh"
     grade=12

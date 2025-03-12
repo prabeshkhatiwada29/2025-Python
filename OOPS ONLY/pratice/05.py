@@ -1,4 +1,7 @@
 # Abstraction
+# 
+# Abstraction is the concept of hiding the complex implementation details from the user and only providing the necessary details.
+
 
 
 class Student:
