@@ -7,3 +7,5 @@ for char in word:
         count += 1
 
 print(f'Number of vowels in {word} is {count}   ')
+
+# Output: Number of vowels in python is 1
